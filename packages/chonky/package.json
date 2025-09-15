@@ -95,12 +95,6 @@
     "styled-components": "^5.3.0",
     "tsdef": "^0.0.14"
   },
-  "homepage": "https://chonky.io/",
-  "author": {
-    "name": "Timur Kuzhagaliyev",
-    "email": "tim.kuzh@gmail.com",
-    "url": "https://foxypanda.me/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/gillbeits/Chonky.git"
