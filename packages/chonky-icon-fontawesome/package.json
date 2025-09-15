@@ -67,18 +67,9 @@
     "@fortawesome/react-fontawesome": "^0.1.12",
     "chonky": "^2.3.2"
   },
-  "homepage": "https://chonky.io/",
-  "author": {
-    "name": "Timur Kuzhagaliyev",
-    "email": "tim.kuzh@gmail.com",
-    "url": "https://foxypanda.me/"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TimboKZ/Chonky.git"
-  },
-  "bugs": {
-    "url": "https://github.com/TimboKZ/Chonky/issues"
+    "url": "git+https://github.com/gillbeits/Chonky.git"
   },
   "keywords": [
     "file",
